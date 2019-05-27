@@ -13,9 +13,6 @@ dependencies:
 - name: gohttps
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
-- name: goqsr
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.4
 - name: mavenqs
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
