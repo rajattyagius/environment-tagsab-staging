@@ -13,6 +13,9 @@ dependencies:
 - name: mavenqs
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: pa-emailchat
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.1.4
 - name: pa-emailparser
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
