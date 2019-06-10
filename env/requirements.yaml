@@ -19,6 +19,9 @@ dependencies:
 - name: pa-emailparser
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
+- name: pa-nattydate
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.1.2
 - name: pa-scheduler-kue-rediscluster
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.26
